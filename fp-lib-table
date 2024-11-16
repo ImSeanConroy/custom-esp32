@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32_S3_MINI_1_N8")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ESP32_S3_MINI_1_N8")(options "")(descr ""))
+  (lib (name "LIB_D3V3XA4B10LP-7")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_D3V3XA4B10LP-7")(options "")(descr ""))
+)
